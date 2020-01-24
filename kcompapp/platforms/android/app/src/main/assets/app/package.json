@@ -1,9 +1,7 @@
 {
+    "main": "bundle",
     "android": {
         "v8Flags": "--expose_gc",
         "markingMode": "none"
-    },
-    "main": "bundle",
-    "name": "kcompapp",
-    "version": "1.0.0"
+    }
 }

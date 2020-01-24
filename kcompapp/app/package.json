@@ -1,9 +1,7 @@
 {
+  "main": "app.js",
   "android": {
     "v8Flags": "--expose_gc",
     "markingMode": "none"
-  },
-  "main": "main",
-  "name": "kcompapp",
-  "version": "1.0.0"
+  }
 }
